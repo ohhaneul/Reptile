@@ -1,0 +1,29 @@
+# Unity generated folders
+[Libraries]
+Library/
+Temp/
+Obj/
+Build/
+Logs/
+MemoryCaptures/
+.vs/
+UserSettings/
+
+# Asset meta data should only be ignored when the corresponding asset is also ignored
+# *.meta
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Visual Studio files
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
